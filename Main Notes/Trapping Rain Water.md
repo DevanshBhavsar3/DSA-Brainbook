@@ -1,6 +1,6 @@
 06-08-2025  15:25
 
-Status: #Revision 
+Status: #Revision-02 
 
 Tags: [[Tags/DSA]]
 
@@ -45,7 +45,7 @@ public:
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
-|       $O(2N)$       |        $O(N)$        |
+|       $O(2N)$       |       $O(2N)$        |
 
 
 ## Optimal

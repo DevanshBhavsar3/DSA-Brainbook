@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "9acaf65e11e66433",
+        "id": "95d1d44216cf2d98",
         "type": "tabs",
         "children": [
           {
-            "id": "9efe1d5bc7cc0a25",
+            "id": "f8f175853c204155",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/DSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Revision",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,36 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9efe1d5bc7cc0a25",
+  "active": "41171d37452a09d3",
   "lastOpenFiles": [
-    "Index/DSA.md",
-    "Main Notes/Single Number II.md",
-    "Tags/Bit Manipulation.md",
-    "Main Notes/Single Number III.md",
-    "Main Notes/L to R XOR.md",
-    "Main Notes/Power Set.md",
-    "Main Notes/Single Number.md",
-    "Main Notes/Minimum Bit Flips to Convert Number.md",
-    "Main Notes/Untitled.md",
-    "Index",
-    "Main Notes/Divide two integers - DSA.md",
-    "Tags/DSA.md",
-    "Tags/Advanced Maths.md",
-    "Main Notes/LFU Cache.md",
-    "Main Notes/LRU Cache.md",
-    "Main Notes/The Celebrity Problem.md",
-    "Main Notes/Online Stock Span.md",
     "Main Notes/Next Greater Element I.md",
-    "Main Notes/Next Smaller Element.md",
-    "Main Notes/Sliding Window Maximum.md",
+    "Index/DSA.md",
     "Main Notes/Maximal Rectangle.md",
     "Main Notes/Largest Rectangle in Histogram.md",
     "Main Notes/Remove K Digits.md",
-    "Main Notes/Asteroid Collision.md",
     "Main Notes/Sum of Subarray Ranges.md",
+    "Main Notes/Asteroid Collision.md",
     "Main Notes/Sum of Subarray Minimums.md",
-    "Assets/Pasted image 20250803165039.png",
     "Main Notes/Trapping Rain Water.md",
+    "Main Notes/Number of NGEs to the right.md",
+    "Main Notes/Next Smaller Element.md",
+    "Main Notes/Next Greater Element II.md",
+    "Main Notes/Monotonic Stack.md",
+    "Main Notes/Infix to Prefix Conversion.md",
+    "Main Notes/Infix to Postfix Conversion.md",
+    "Main Notes/Postfix to Infix Conversion.md",
+    "Main Notes/Postfix to Prefix Conversion.md",
+    "Main Notes/Prefix to Postfix Conversion.md",
+    "Main Notes/Prefix to Infix Conversion.md",
+    "Main Notes/Prefix, Infix and Postfix Conversions.md",
+    "Main Notes/Min Stack.md",
+    "Main Notes/Valid Parentheses.md",
+    "Main Notes/Queue Intro.md",
+    "Main Notes/Stack Into.md",
+    "Tags/Stack.md",
+    "Tags/Queue.md",
+    "Index",
+    "Assets/Pasted image 20250803165039.png",
     "Assets/Pasted image 20250728192319.png",
     "Assets",
     "Assets/Pasted image 20250729174450.png",

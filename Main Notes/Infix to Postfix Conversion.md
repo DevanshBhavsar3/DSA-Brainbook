@@ -1,6 +1,6 @@
 01-08-2025  16:02
 
-Status: #Revision 
+Status: #Revision-02 
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -13,7 +13,7 @@ https://www.naukri.com/code360/problems/day-23-:-infix-to-postfix-_1382146
 	- If it is operand, add it to ans.
 	- If it is (, add it to stack.
 	- If it is ), add everything till ( to ans from stack.
-	- Else, add everything with > priority than current operator to ans, and add the operator to stack.
+	- Else, add everything with >= priority than current operator to ans, and add the operator to stack.
 - At last, add remaining operators to ans from stack.
 
 

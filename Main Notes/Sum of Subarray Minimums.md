@@ -1,6 +1,6 @@
 06-08-2025  16:14
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -68,6 +68,7 @@ public:
 		
         for(int i = 0; i < arr.size(); i++) {
 			// IMPORTANT: Only remove < elements from the stack not =
+			// Because if we too == elements both in nse & pse it would create a                  duplicate subarray
             while(!st.empty() && arr[i] < arr[st.top()]) {
                 st.pop();
             }

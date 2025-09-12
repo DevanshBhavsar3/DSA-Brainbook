@@ -1,6 +1,6 @@
 26-07-2025  16:33
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA]] [[Advanced Maths]]
 
@@ -42,7 +42,7 @@ vector<int> divisors(int n) {
 vector<int> divisors(int n) {
 	vector<int> ans;
 	
-	for(int i = 1; i * i < n; i++) {
+	for(int i = 1; i * i <= n; i++) {
 		if(n % i == 0) {
 			ans.push_back(i);
 			

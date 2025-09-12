@@ -1,6 +1,6 @@
 01-08-2025  16:38
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -99,9 +99,9 @@ class Solution {
 ```
 
 
-|           **Time Complexity**            | **Space Complexity** |
-| :--------------------------------------: | :------------------: |
-| $O(N / 2) + O(2N) + O(N / 2)$<br>$O(3N)$ |    $O(N) + O(N)$     |
+|               **Time Complexity**                | **Space Complexity** |
+| :----------------------------------------------: | :------------------: |
+| $O(N / 2) + O(2N) + O(N / 2)$<br>$or$<br>$O(3N)$ |    $O(N) + O(N)$     |
 
 
 

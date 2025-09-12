@@ -1,6 +1,6 @@
 27-07-2025  16:25
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA]] [[Advanced Maths]]
 
@@ -65,10 +65,12 @@ class Solution{
         vector<vector<int>> primeFactors(vector<int>& queries){
             int spf[INT_MAX + 1];
 			
+			// O(N)
             for(int i = 0; i < INT_MAX; i++) {
                 spf[i] = i;
             }
 			
+			// N log(log N)
             for(int i = 2; i * i < INT_MAX; i++) {
                 if(spf[i] == i) {
                     for(int j = i * i; j < INT_MAX; j += i) {
@@ -81,6 +83,7 @@ class Solution{
 			
             vector<vector<int>> ans;
 			
+			// O(Q log N)
             for(int i = 0; i < queries.size(); i++) {
                 vector<int> factors;
                 int n = queries[i];
@@ -99,9 +102,9 @@ class Solution{
 ```
 
 
-|            **Time Complexity**             | **Space Complexity** |
-| :----------------------------------------: | :------------------: |
-| $O(N) + O(N \log(\log N)) + O(Q * \log n)$ |        $O(N)$        |
+|            **Time Complexity**             |           **Space Complexity**           |
+| :----------------------------------------: | :--------------------------------------: |
+| $O(N) + O(N \log(\log N)) + O(Q * \log n)$ | $O(x)$, x = all prime factors of queries |
 
 
 

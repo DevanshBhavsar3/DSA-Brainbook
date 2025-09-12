@@ -1,6 +1,6 @@
 08-08-2025  13:41
 
-Status: #Revision 
+Status: #Revision-02 n
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -20,17 +20,21 @@ public:
         vector<int> st;
 		
         for(int i = 0; i < asteroids.size(); i++) {
+			// > 0, add to stack
             if(asteroids[i] > 0) {
                 st.push_back(asteroids[i]);
             } else {
+				// Remove all smaller opposite sign elements
                 while(!st.empty() &&
                 st.back() > 0 &&
                 st.back() < abs(asteroids[i])) {
                     st.pop_back();
                 }
-				
+
+				// If same size, remove top
                 if(!st.empty() && st.back() == abs(asteroids[i])) {
                     st.pop_back();
+				// If empty or negative element on top, then add negative element
                 } else if(st.empty() || st.back() < 0) {
                     st.push_back(asteroids[i]);
                 }

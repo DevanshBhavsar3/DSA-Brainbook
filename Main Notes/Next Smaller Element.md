@@ -1,6 +1,6 @@
 04-08-2025  15:34
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -30,7 +30,7 @@ for(int i -> n) {
 ## Optimal
 
 - Start iterating from the back.
-- Make an monotonic stack of increasing element.
+- Make an monotonic stack of decreasing element.
 - The stack top will be the next smaller element of the element.
 
 ```cpp

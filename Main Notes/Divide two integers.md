@@ -4,7 +4,7 @@ Status: #Revision-02
 
 Tags: [[Tags/DSA]] [[Tags/Bit Manipulation|Bit Manipulation]]
 
-# Divide two integers - DSA
+# Divide two integers
 
 https://leetcode.com/problems/divide-two-integers/
 
