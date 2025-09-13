@@ -1,6 +1,6 @@
 16-08-2025  16:49
 
-Status: #Revision 
+Status: #Revision-02 
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -83,7 +83,7 @@ public:
         minFreq = 1;
         this->capacity = capacity;
     }
-
+	
 	// O(1)
     int get(int key) {
         if(keyNode.find(key) == keyNode.end()) {
@@ -95,7 +95,7 @@ public:
        
         return node->value;
     }
-
+	
 	// O(1)
     void put(int key, int value) {
         if(keyNode.find(key) != keyNode.end()) {
@@ -125,13 +125,13 @@ public:
     void updateFrequency(Node* node) {
         int currFrequency = node->frequency;
 		
-		// Delete node from current list
-        freqList[currFrequency]->deleteNode(node);
-		
 		// Create a new list if not exists in the next frequency
         if(freqList.find(currFrequency + 1) == freqList.end()) {
             freqList[currFrequency + 1] = new DoubleyLinkedList(); 
         }
+		
+		// Delete node from current list
+        freqList[currFrequency]->deleteNode(node);
 		
 		// Add node to next frequency list
         freqList[currFrequency + 1]->insertAfterHead(node);
@@ -141,6 +141,7 @@ public:
             minFreq++;
         }
 		
+		// Update the node's frequency
         node->frequency++;
     }
 };

@@ -1,6 +1,6 @@
 15-08-2025  16:40
 
-Status: #Revision 
+Status: #Revision-02 
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -8,7 +8,7 @@ Tags: [[Tags/DSA]] [[Stack]]
 
 https://leetcode.com/problems/lru-cache/description/
 
-- Create a doubley linked list and a map(key, node).
+- Create a doubly linked list and a map(key, node).
 - For get function,
 	- Check if the key is in the map.
 	- Return the value, if exist and move the node to the start. 
@@ -53,8 +53,6 @@ public:
     }
 	
     void deleteNode(Node* node) {
-        Node* curr = head;
-		
         node->prev->next = node->next;
         node->next->prev = node->prev;
 		

@@ -52,3 +52,10 @@
 [[Remove K Digits]]
 [[Largest Rectangle in Histogram]]
 [[Maximal Rectangle]]
+
+## Implementation Problems
+[[Sliding Window Maximum]]
+[[Online Stock Span]]
+[[The Celebrity Problem]]
+[[LRU Cache]]
+[[LFU Cache]]
