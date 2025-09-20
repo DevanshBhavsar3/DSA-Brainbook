@@ -59,3 +59,23 @@
 [[The Celebrity Problem]]
 [[LRU Cache]]
 [[LFU Cache]]
+
+
+
+# Sliding Window & Two Pointers Problems
+
+## Medium Problems
+[[Longest Substring Without Repeating Characters]]
+[[Max Consecutive Ones III]]
+[[Fruit Into Baskets]]
+[[Longest Repeating Character Replacement]]
+[[Binary Subarrays With Sum]]
+[[Count Number of Nice Subarrays]]
+[[Number of Substrings Containing All Three Characters]]
+[[Maximum Points You Can Obtain from Cards]]
+
+## Hard Problems
+[[Longest Substring with At Most K Distinct Characters]]
+[[Subarrays with K Different Integers]]
+[[Minimum Window Substring]]
+[[Minimum Window Subsequence]]

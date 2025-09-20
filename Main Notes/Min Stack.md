@@ -51,7 +51,6 @@ public:
 };
 ```
 
-
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
 |       $O(1)$        |       $O(2N)$        |

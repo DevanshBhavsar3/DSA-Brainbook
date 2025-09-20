@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae692bab1c14551b",
+        "id": "912b001636e51739",
         "type": "tabs",
         "children": [
           {
-            "id": "ddfc501eb5ba1156",
+            "id": "f0ae33fcca25487d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8a3f5a266763ae2c",
@@ -165,10 +166,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41171d37452a09d3",
+  "active": "f0ae33fcca25487d",
   "lastOpenFiles": [
-    "Main Notes/LFU Cache.md",
+    "Main Notes/Minimum Window Subsequence.md",
     "Index/DSA.md",
+    "Main Notes/Minimum Window Substring.md",
+    "Main Notes/Subarrays with K Different Integers.md",
+    "Main Notes/Longest Substring with At Most K Distinct Characters.md",
+    "Main Notes/Binary Subarrays With Sum.md",
+    "Main Notes/Count Number of Nice Subarrays.md",
+    "Main Notes/Longest Repeating Character Replacement.md",
+    "Main Notes/Number of Substrings Containing All Three Characters.md",
+    "Main Notes/LFU Cache.md",
+    "Main Notes/Max Consecutive Ones III.md",
+    "Main Notes/Maximum Points You Can Obtain from Cards.md",
+    "Main Notes/Fruit Into Baskets.md",
+    "Main Notes/Longest Substring Without Repeating Characters.md",
+    "Main Notes/Min Stack.md",
+    "Tags/Sliding Window & Two Pointers Problems.md",
     "Main Notes/LRU Cache.md",
     "Main Notes/The Celebrity Problem.md",
     "Main Notes/Online Stock Span.md",
@@ -179,20 +194,6 @@
     "Main Notes/Remove K Digits.md",
     "Main Notes/Sum of Subarray Ranges.md",
     "Main Notes/Asteroid Collision.md",
-    "Main Notes/Sum of Subarray Minimums.md",
-    "Main Notes/Trapping Rain Water.md",
-    "Main Notes/Number of NGEs to the right.md",
-    "Main Notes/Next Smaller Element.md",
-    "Main Notes/Next Greater Element II.md",
-    "Main Notes/Monotonic Stack.md",
-    "Main Notes/Infix to Prefix Conversion.md",
-    "Main Notes/Infix to Postfix Conversion.md",
-    "Main Notes/Postfix to Infix Conversion.md",
-    "Main Notes/Postfix to Prefix Conversion.md",
-    "Main Notes/Prefix to Postfix Conversion.md",
-    "Main Notes/Prefix to Infix Conversion.md",
-    "Main Notes/Prefix, Infix and Postfix Conversions.md",
-    "Main Notes/Min Stack.md",
     "Index",
     "Assets/Pasted image 20250803165039.png",
     "Assets/Pasted image 20250728192319.png",
