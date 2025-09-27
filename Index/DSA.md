@@ -79,3 +79,27 @@
 [[Subarrays with K Different Integers]]
 [[Minimum Window Substring]]
 [[Minimum Window Subsequence]]
+
+
+
+# Greedy Algorithms
+
+## Easy Problems
+[[Assign Cookies]]
+[[Fractional Knapsack Problem]]
+[[Minimum number of coins]]
+[[Lemonade Change]]
+[[Valid Parenthesis String]]
+
+## Medium/Hard Problems
+[[N meetings in 1 room]]
+[[Jump Game]]
+[[Jump Game II]]
+[[Minimum Number of Platforms]]
+[[Job sequencing Problem]]
+[[Candy]]
+[[Shortest Job First (SJF)]]
+[[Least Recently Used (LRU) Page Replacement Algorithm]]
+[[Insert Interval]]
+[[Merge Intervals]]
+[[Non-overlapping Intervals]]

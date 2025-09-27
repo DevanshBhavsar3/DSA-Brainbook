@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "912b001636e51739",
+        "id": "f3912ba68c3161f2",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ae33fcca25487d",
+            "id": "9915783c7b0bff08",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,34 +165,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f0ae33fcca25487d",
+  "active": "9915783c7b0bff08",
   "lastOpenFiles": [
-    "Main Notes/Minimum Window Subsequence.md",
     "Index/DSA.md",
+    "Main Notes/Non-overlapping Intervals.md",
+    "Main Notes/N meetings in 1 room.md",
+    "Main Notes/Merge Intervals.md",
+    "Main Notes/Insert Interval.md",
+    "Main Notes/Minimum Number of Platforms.md",
+    "Main Notes/Least Recently Used (LRU) Page Replacement Algorithm.md",
+    "Main Notes/LRU Cache.md",
+    "Main Notes/Candy.md",
+    "Main Notes/Shortest Job First (SJF).md",
+    "Assets/Pasted image 20250926152936.png",
+    "Main Notes/Untitled.base",
+    "Main Notes/Job sequencing Problem.md",
+    "Tags/Greedy Algorithms.md",
+    "Main Notes/Jump Game II.md",
+    "Main Notes/Jump Game.md",
+    "Main Notes/Minimum number of coins.md",
+    "Main Notes/Valid Parenthesis String.md",
+    "Main Notes/Lemonade Change.md",
+    "Main Notes/Fractional Knapsack Problem.md",
+    "Main Notes/Assign Cookies.md",
+    "Main Notes/Minimum Window Subsequence.md",
     "Main Notes/Minimum Window Substring.md",
     "Main Notes/Subarrays with K Different Integers.md",
     "Main Notes/Longest Substring with At Most K Distinct Characters.md",
     "Main Notes/Binary Subarrays With Sum.md",
     "Main Notes/Count Number of Nice Subarrays.md",
     "Main Notes/Longest Repeating Character Replacement.md",
-    "Main Notes/Number of Substrings Containing All Three Characters.md",
-    "Main Notes/LFU Cache.md",
-    "Main Notes/Max Consecutive Ones III.md",
-    "Main Notes/Maximum Points You Can Obtain from Cards.md",
-    "Main Notes/Fruit Into Baskets.md",
-    "Main Notes/Longest Substring Without Repeating Characters.md",
-    "Main Notes/Min Stack.md",
-    "Tags/Sliding Window & Two Pointers Problems.md",
-    "Main Notes/LRU Cache.md",
-    "Main Notes/The Celebrity Problem.md",
-    "Main Notes/Online Stock Span.md",
-    "Main Notes/Sliding Window Maximum.md",
-    "Main Notes/Next Greater Element I.md",
-    "Main Notes/Maximal Rectangle.md",
-    "Main Notes/Largest Rectangle in Histogram.md",
-    "Main Notes/Remove K Digits.md",
-    "Main Notes/Sum of Subarray Ranges.md",
-    "Main Notes/Asteroid Collision.md",
     "Index",
     "Assets/Pasted image 20250803165039.png",
     "Assets/Pasted image 20250728192319.png",
