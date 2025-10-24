@@ -1,12 +1,41 @@
 25-09-2025  14:51
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Greedy Algorithms]]
 
 # Minimum Number of Platforms
 
 https://www.naukri.com/code360/problems/minimum-number-of-platforms_799400
+
+### Brute Force
+
+- For each train's arrival time and departure time increase the count in the hash.
+- Find the max count when increased.
+
+```cpp
+int calculateMinPatforms(int at[], int dt[], int n) {
+    vector<int> arr(2359, 0);
+    int total = 0;
+    
+    for(int i = 0; i < n; i++) {
+        for(int j = at[i]; j <= dt[i]; j++) {
+            arr[j]++;
+            
+            total = max(total, arr[j]);
+        }
+    }
+    
+    return total;
+}
+```
+
+| **Time Complexity** | **Space Complexity** |
+| :-----------------: | :------------------: |
+|    $O(N * 2360)$    |      $O(2360)$       |
+
+
+### Optimal
 
 - Sort both arrivals and departures.
 - Perform operation that occurs first as if you standing at the station and watching the events.

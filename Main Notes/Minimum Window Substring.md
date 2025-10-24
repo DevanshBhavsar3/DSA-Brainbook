@@ -1,6 +1,6 @@
 20-09-2025  14:46
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Sliding Window & Two Pointers Problems]]
 
@@ -63,9 +63,9 @@ public:
 };
 ```
 
-|              **Time Complexity**               | **Space Complexity** |
-| :--------------------------------------------: | :------------------: |
-| $O(N * (N * M))$<br><br>Map complexity exluded |       $O(256)$       |
+|               **Time Complexity**               | **Space Complexity** |
+| :---------------------------------------------: | :------------------: |
+| $O(N * (N + M))$<br><br>Map complexity excluded |       $O(256)$       |
 
 
 ### Optimal

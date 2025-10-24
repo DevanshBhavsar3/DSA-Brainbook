@@ -1,8 +1,8 @@
 22-09-2025  15:02
 
-Status: #Revision 
+Status: #Revision-02  
 
-Tags: [[Index/DSA|DSA]] [[Greedy Algorithms]]
+Tags: [[Tags/DSA|DSA]] [[Greedy Algorithms]]
 
 # Valid Parenthesis String
 

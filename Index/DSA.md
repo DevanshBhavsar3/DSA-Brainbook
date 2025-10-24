@@ -103,3 +103,30 @@
 [[Insert Interval]]
 [[Merge Intervals]]
 [[Non-overlapping Intervals]]
+
+
+
+# Binary Trees
+
+[[Introduction to Binary Trees]]
+
+## Traversals
+[[Traversal Techniques]]
+[[Recursive Preorder Traversal]]
+[[Recursive Inorder Traversal]]
+[[Recursive Postorder Traversal]]
+[[Level Order Traversal]]
+[[Iterative Preorder Traversal]]
+[[Iterative Inorder Traversal]]
+[[Iterative Postorder Traversal ( 2 Stacks )]]
+[[Iterative Postorder Traversal (1 Stack)]]
+
+## Medium Problems
+[[Height of a Binary Tree]]
+[[Balanced Binary Tree]]
+[[Diameter of Binary Tree]]
+[[Maximum Path Sum]]
+[[Same Tree]]
+[[Zigzag Traversal]]
+[[Boundary Traversal of BT]]
+[[Vertical Order Traversal of BT]]

@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f3912ba68c3161f2",
+        "id": "67e54376848914b1",
         "type": "tabs",
         "children": [
           {
-            "id": "9915783c7b0bff08",
+            "id": "7f53d930310848d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/DSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Log",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 215.50043487548828,
     "collapsed": true
   },
   "right": {
@@ -165,43 +179,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9915783c7b0bff08",
+  "active": "7f53d930310848d4",
   "lastOpenFiles": [
+    "Main Notes/Vertical Order Traversal of BT.md",
     "Index/DSA.md",
-    "Main Notes/Non-overlapping Intervals.md",
-    "Main Notes/N meetings in 1 room.md",
-    "Main Notes/Merge Intervals.md",
-    "Main Notes/Insert Interval.md",
-    "Main Notes/Minimum Number of Platforms.md",
-    "Main Notes/Least Recently Used (LRU) Page Replacement Algorithm.md",
-    "Main Notes/LRU Cache.md",
-    "Main Notes/Candy.md",
-    "Main Notes/Shortest Job First (SJF).md",
-    "Assets/Pasted image 20250926152936.png",
-    "Main Notes/Untitled.base",
-    "Main Notes/Job sequencing Problem.md",
-    "Tags/Greedy Algorithms.md",
-    "Main Notes/Jump Game II.md",
-    "Main Notes/Jump Game.md",
-    "Main Notes/Minimum number of coins.md",
-    "Main Notes/Valid Parenthesis String.md",
-    "Main Notes/Lemonade Change.md",
-    "Main Notes/Fractional Knapsack Problem.md",
-    "Main Notes/Assign Cookies.md",
+    "Main Notes/Boundary Traversal of BT.md",
+    "Main Notes/Zigzag Traversal.md",
+    "Main Notes/Same Tree.md",
+    "Main Notes/Maximum Path Sum.md",
+    "Main Notes/Diameter of Binary Tree.md",
+    "Main Notes/Balanced Binary Tree.md",
+    "Main Notes/Introduction to Binary Trees.md",
+    "Main Notes/Height of a Binary Tree.md",
+    "Main Notes/Preorder, Inorder, Postorder Traversal in One traversal.md",
+    "Main Notes/Iterative Postorder Traversal (1 Stack).md",
+    "Main Notes/Iterative Postorder Traversal ( 2 Stacks ).md",
+    "Main Notes/Iterative Inorder Traversal.md",
+    "Main Notes/Iterative Preorder Traversal.md",
+    "Main Notes/Recursive Postorder Traversal.md",
+    "Index/100 Days of ML (CampusX).md",
+    "Main Notes/Level Order Traversal.md",
+    "Main Notes/Recursive Inorder Traversal.md",
+    "Main Notes/Recursive Preorder Traversal.md",
+    "Main Notes/Traversal Techniques.md",
+    "Assets/Pasted image 20251017132932.png",
+    "Assets/Pasted image 20251017132025.png",
+    "Assets/Pasted image 20251017131947.png",
+    "Assets/Pasted image 20251017131742.png",
+    "Assets/Pasted image 20251017131528.png",
+    "Assets/Pasted image 20251017125641.jpg",
+    "Assets/Pasted image 20251017125638.jpg",
+    "Assets/Pasted image 20251017125106.png",
+    "Assets/Pasted image 20251017125051.jpg",
+    "Assets/Pasted image 20251017124904.jpg",
+    "Tags/Binary Trees.md",
+    "Main Notes/Day 10 - Tensors.md",
     "Main Notes/Minimum Window Subsequence.md",
     "Main Notes/Minimum Window Substring.md",
     "Main Notes/Subarrays with K Different Integers.md",
-    "Main Notes/Longest Substring with At Most K Distinct Characters.md",
-    "Main Notes/Binary Subarrays With Sum.md",
-    "Main Notes/Count Number of Nice Subarrays.md",
-    "Main Notes/Longest Repeating Character Replacement.md",
+    "Main Notes/Untitled.base",
     "Index",
-    "Assets/Pasted image 20250803165039.png",
-    "Assets/Pasted image 20250728192319.png",
     "Assets",
-    "Assets/Pasted image 20250729174450.png",
-    "Assets/Pasted image 20250729174416.png",
-    "Assets/Pasted image 20250728192611.png",
     "Templates",
     "Main Notes",
     "Tags"
