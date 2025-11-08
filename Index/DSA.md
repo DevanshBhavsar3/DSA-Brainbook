@@ -130,3 +130,43 @@
 [[Zigzag Traversal]]
 [[Boundary Traversal of BT]]
 [[Vertical Order Traversal of BT]]
+[[Top View of Binary Tree]]
+[[Bottom View of Binary Tree]]
+[[Right Side View of BT]]
+[[Symmetric Tree]]
+
+## Hard Problems
+[[Binary Tree Paths]]
+[[LCA of Binary Tree]]
+[[Maximum Width of Binary Tree]]
+[[Children Sum Property]]
+[[All Nodes at Distance K in Binary Tree]]
+[[Minimum Time To Burn Binary Tree]]
+[[Count Complete Tree Nodes]]
+[[Construct Binary Tree from Preorder and Inorder Traversal]]
+[[Construct Binary Tree from Inorder and Postorder Traversal]]
+[[Serialize and Deserialize Binary Tree]]
+[[Morris Traversal]]
+[[Flatten Binary Tree to Linked List]]
+
+
+
+# Binary Search Trees
+
+## Introduction
+[[Binary Search Trees Intro]]
+[[Search in a Binary Search Tree]]
+[[Find Min-Max in BST]]
+
+## Problems
+[[Ciel in a BST]]
+[[Floor in a BST]]
+[[Insert into a BST]]
+[[Delete Node in a BST]]
+[[Kth Smallest Element in a BST]]
+[[Check if a tree is BST or BT]]
+[[LCA in BST]]
+[[Construct BST from Preorder Traversal]]
+[[Inorder Successor-Predecessor in BST]]
+[[Binary Search Tree Iterator]]
+[[Two Sum in BST]]
