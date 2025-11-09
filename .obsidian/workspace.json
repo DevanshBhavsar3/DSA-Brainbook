@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "88b3e30c3ffc32c2",
+        "id": "4ee6cb461b7e1614",
         "type": "tabs",
         "children": [
           {
-            "id": "2d2c558bf9487d7f",
+            "id": "3143caae43866ee0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index/DSA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "New tab"
             }
           }
         ]
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828,
-    "collapsed": true
+    "width": 215.50043487548828
   },
   "right": {
     "id": "8a3f5a266763ae2c",
@@ -179,10 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d2c558bf9487d7f",
+  "active": "3143caae43866ee0",
   "lastOpenFiles": [
-    "Main Notes/Two Sum in BST.md",
     "Index/DSA.md",
+    "Main Notes/Largest BST in BT.md",
+    "Main Notes/Recover Binary Search Tree.md",
+    "Main Notes/Two Sum in BST.md",
     "Main Notes/Binary Search Tree Iterator.md",
     "Main Notes/Iterative Inorder Traversal.md",
     "Main Notes/Construct BST from Preorder Traversal.md",
@@ -207,8 +194,6 @@
     "Tags/Binary Search Trees.md",
     "Main Notes/Flatten Binary Tree to Linked List.md",
     "Main Notes/Recursive Preorder Traversal.md",
-    "Main Notes/Serialize and Deserialize Binary Tree.md",
-    "Main Notes/Construct Binary Tree from Inorder and Postorder Traversal.md",
     "Assets/Pasted image 20251031154430.png",
     "Assets/Pasted image 20251031151850.png",
     "Main Notes/Untitled.base",

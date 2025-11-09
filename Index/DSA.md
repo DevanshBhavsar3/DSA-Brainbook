@@ -170,3 +170,5 @@
 [[Inorder Successor-Predecessor in BST]]
 [[Binary Search Tree Iterator]]
 [[Two Sum in BST]]
+[[Recover Binary Search Tree]]
+[[Largest BST in BT]]
