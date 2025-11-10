@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ee6cb461b7e1614",
+        "id": "3c5f9dcf64b100aa",
         "type": "tabs",
         "children": [
           {
-            "id": "3143caae43866ee0",
+            "id": "c15be909a5896a9e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828
+    "width": 215.50043487548828,
+    "collapsed": true
   },
   "right": {
     "id": "8a3f5a266763ae2c",
@@ -164,36 +165,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3143caae43866ee0",
+  "active": "c15be909a5896a9e",
   "lastOpenFiles": [
     "Index/DSA.md",
+    "Main Notes/Largest Odd Number in String.md",
+    "Main Notes/Reverse Words in a String.md",
+    "Main Notes/Remove Outermost Parentheses.md",
+    "Tags/Strings.md",
+    "Main Notes/Preorder, Inorder, Postorder Traversal in One traversal.md",
+    "Main Notes/Iterative Postorder Traversal (1 Stack).md",
+    "Main Notes/Iterative Postorder Traversal ( 2 Stacks ).md",
+    "Main Notes/Iterative Inorder Traversal.md",
+    "Main Notes/Iterative Preorder Traversal.md",
+    "Main Notes/Level Order Traversal.md",
+    "Main Notes/Recursive Postorder Traversal.md",
+    "Main Notes/Recursive Inorder Traversal.md",
+    "Main Notes/Recursive Preorder Traversal.md",
+    "Main Notes/Introduction to Binary Trees.md",
+    "Main Notes/Traversal Techniques.md",
     "Main Notes/Largest BST in BT.md",
     "Main Notes/Recover Binary Search Tree.md",
     "Main Notes/Two Sum in BST.md",
     "Main Notes/Binary Search Tree Iterator.md",
-    "Main Notes/Iterative Inorder Traversal.md",
     "Main Notes/Construct BST from Preorder Traversal.md",
     "Main Notes/Inorder Successor-Predecessor in BST.md",
     "Main Notes/Morris Traversal.md",
     "Main Notes/Construct Binary Tree from Preorder and Inorder Traversal.md",
     "Main Notes/LCA in BST.md",
     "Main Notes/LCA of Binary Tree.md",
-    "Main Notes/Check if a tree is BST or BT.md",
-    "Main Notes/Kth Smallest Element in a BST.md",
-    "Main Notes/Delete Node in a BST.md",
-    "Main Notes/Insert into a BST.md",
-    "Main Notes/Floor in a BST.md",
-    "Main Notes/Ciel in a BST.md",
-    "Main Notes/Feature Engineering.md",
-    "Index/100 Days of ML (CampusX).md",
-    "Main Notes/Find Min-Max in BST.md",
-    "Main Notes/Search in a Binary Search Tree.md",
-    "Main Notes/Binary Search Trees Intro.md",
     "Assets/what-is-binary-search-tree.webp",
     "Assets/Pasted image 20251102150032.png",
-    "Tags/Binary Search Trees.md",
-    "Main Notes/Flatten Binary Tree to Linked List.md",
-    "Main Notes/Recursive Preorder Traversal.md",
     "Assets/Pasted image 20251031154430.png",
     "Assets/Pasted image 20251031151850.png",
     "Main Notes/Untitled.base",

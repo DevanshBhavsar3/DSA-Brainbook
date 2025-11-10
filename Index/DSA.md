@@ -1,3 +1,12 @@
+# Strings
+
+## Easy Problems
+[[Remove Outermost Parentheses]]
+[[Reverse Words in a String]]
+[[Largest Odd Number in String]]
+
+
+
 # Bit Manipulation
 
 ## Basics
@@ -120,6 +129,7 @@
 [[Iterative Inorder Traversal]]
 [[Iterative Postorder Traversal ( 2 Stacks )]]
 [[Iterative Postorder Traversal (1 Stack)]]
+[[Preorder, Inorder, Postorder Traversal in One traversal]]
 
 ## Medium Problems
 [[Height of a Binary Tree]]
