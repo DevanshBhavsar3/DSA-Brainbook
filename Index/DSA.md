@@ -4,6 +4,10 @@
 [[Remove Outermost Parentheses]]
 [[Reverse Words in a String]]
 [[Largest Odd Number in String]]
+[[Longest Common Prefix]]
+[[Isomorphic Strings]]
+[[Rotate String]]
+[[Valid Anagram]]
 
 
 
