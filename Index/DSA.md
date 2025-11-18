@@ -9,6 +9,15 @@
 [[Rotate String]]
 [[Valid Anagram]]
 
+## Medium Problems
+[[Sort Characters By Frequency]]
+[[Maximum Nesting Depth of the Parentheses]]
+[[Roman to Integer]]
+[[Implement Atoi]]
+[[Count Number of Substrings]]
+[[Longest Palindromic Substring]]
+[[Sum of Beauty of All Substring]]
+
 
 
 # Bit Manipulation

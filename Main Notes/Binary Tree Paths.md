@@ -1,6 +1,6 @@
 27-10-2025  16:16
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Binary Trees]]
 
@@ -17,6 +17,7 @@ public:
     void traverse(TreeNode* root, string container, vector<string>& ans) {
         if(!root->left && !root->right) {
             ans.push_back(container);
+			return;
         }   
 		
         if(root->left) {

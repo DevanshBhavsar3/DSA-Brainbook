@@ -1,50 +1,50 @@
 /* Omarchy Theme for Obsidian */
-/* Generated on Sun Nov  9 05:37:22 PM IST 2025 from theme: aether */
+/* Generated on Wed Nov 12 02:12:28 PM IST 2025 from theme: black-metal */
 /* Colors sorted by frequency, backgrounds by distance */
 
 .theme-dark, .theme-light {
   /* Core colors */
-  --background-primary: #1d2021;
-  --text-normal: #f2eee2;
+  --background-primary: #0f0f0f;
+  --text-normal: #d1cfcf;
 
   /* Background variations (always distance-based) */
-  --background-primary-alt: #1d2021;
-  --background-secondary: #1d2021;
-  --background-secondary-alt: #1d2021;
+  --background-primary-alt: #0f0f0f;
+  --background-secondary: #0f0f0f;
+  --background-secondary-alt: #0f0f0f;
 
   /* Code block colors (always distance-based) */
-  --code-background: #2c2f30;
-  --code-foreground: #e1efef;
+  --code-background: #1e1e1e;
+  --code-foreground: #d4cece;
 
   /* Border color from btop theme */
-  --border-color: #4f5355;
+  --border-color: #868080;
 
   /* Selection colors from Alacritty */
-  --text-selection: background = ;
-  --text-selection-fg: #1d2021;
+  --text-selection: #3f3f3f;
+  --text-selection-fg: #d1cfcf;
 
   /* 13-slot color system for remaining elements */
-  --text-title-h1: #4f5355;
-  --text-title-h2: #f09793;
-  --text-title-h3: #e7dadb;
-  --text-title-h4: #e5e2bd;
-  --text-title-h5: #e1efef;
-  --text-title-h6: #e1efef;  /* Same as h5 */
-  --text-link: #dd514a;
-  --markup-code: #d4c7a4;
-  --text-mark: #cce4e5;
-  --interactive-accent: #c9cac9;
-  --blockquote-border: #c8c27e;
-  --text-muted: #f2eee2;  /* Use text-specific color for muted text */
-  --text-faint: #f2eee2;  /* Use text-specific color for faint text */
+  --text-title-h1: #dbd6d6;
+  --text-title-h2: #d4cece;
+  --text-title-h3: #cdc7c7;
+  --text-title-h4: #c6c0c0;
+  --text-title-h5: #c6bebe;
+  --text-title-h6: #c6bebe;  /* Same as h5 */
+  --text-link: #c3c3c3;
+  --markup-code: #b7b0b0;
+  --text-mark: #afa6a6;
+  --interactive-accent: #aea5a5;
+  --blockquote-border: #a89e9e;
+  --text-muted: #868080;  /* Use text-specific color for muted text */
+  --text-faint: #868080;  /* Use text-specific color for faint text */
 
   /* Additional mappings */
   --text-accent: var(--interactive-accent);
   --text-accent-hover: var(--interactive-accent);
   --text-error: var(--text-title-h1);
   --text-error-hover: var(--text-title-h1);
-  --text-highlight-bg: #f2eee2;  /* Use text color as highlight background */
-  --text-on-accent: #1d2021;
+  --text-highlight-bg: #d1cfcf;  /* Use text color as highlight background */
+  --text-on-accent: #0f0f0f;
 
   --interactive-normal: var(--code-background);
   --interactive-hover: var(--interactive-accent);
@@ -82,7 +82,7 @@
   /* Fonts */
   --font-interface-theme: "Liberation Sans";
   --font-text-theme: "Liberation Sans";
-  --font-monospace-theme: "CaskaydiaMono Nerd Font Mono";
+  --font-monospace-theme: "IosevkaTerm Nerd Font Mono";
 }
 
 /* Headers */

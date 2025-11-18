@@ -1,6 +1,6 @@
 01-11-2025  14:56
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Binary Trees]]
 
@@ -108,7 +108,7 @@ public:
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
-|       $O(2N)$       |        $O(1)$        |
+|       $O(2N)$       |        $O(N)$        |
 
 
 

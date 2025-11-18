@@ -1,6 +1,6 @@
 24-10-2025  14:00
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Binary Trees]]
 
@@ -27,10 +27,12 @@ public:
         map<int, map<int, multiset<int>>> nodes;
 		
         traverse(root, 0, 0, nodes);
-		
+
+		// <first:col, second:map<int, multiset<int>>>
         for(auto v: nodes) {
             vector<int> level;
-			
+
+			// <first:row, second:multiset<int>>
             for(auto l: v.second) {
                 level.insert(level.end(), l.second.begin(), l.second.end());
             }
