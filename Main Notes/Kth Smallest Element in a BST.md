@@ -1,6 +1,6 @@
 05-11-2025  16:17
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Binary Search Trees]]
 
@@ -51,16 +51,16 @@ class Solution {
 public:
     int kthSmallest(TreeNode* root, int k) {
         TreeNode* curr = root;
-        int cnt = 0;
+        int idx = 0;
         int ans = -1;
+		
         while(curr) {
-            if(cnt == k - 1) {
-                ans = curr->val;
-            }
-			
-            if(curr->left == NULL) {
+            if(!curr->left) {
+                if(++idx == k) {
+                    ans = curr->val;
+                }
+				
                 curr = curr->right;
-                cnt++;
             } else {
                 TreeNode* prev = curr->left;
 				
@@ -68,11 +68,13 @@ public:
                     prev = prev->right;
                 }
 				
-                if(prev->right == NULL) {
+                if(!prev->right) {
                     prev->right = curr;
                     curr = curr->left;
                 } else {
-                    cnt++;
+                    if(++idx == k) {
+                        ans = curr->val;
+                    }
 					
                     prev->right = NULL;
                     curr = curr->right;
@@ -87,7 +89,7 @@ public:
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
-|       $O(N)$        |        $O(1)$        |
+|       $O(2N)$       |        $O(1)$        |
 
 
 #### Kth Largest Element

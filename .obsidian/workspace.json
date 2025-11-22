@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a07c34a21a978872",
+        "id": "7494770848242ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "466a3d51d129e53f",
+            "id": "12c6781d9515f4ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/DSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA"
             }
           }
         ]
@@ -74,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.50043487548828,
-    "collapsed": true
+    "width": 215.50043487548828
   },
   "right": {
     "id": "8a3f5a266763ae2c",
@@ -165,34 +178,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "466a3d51d129e53f",
+  "active": "12c6781d9515f4ee",
   "lastOpenFiles": [
+    "Main Notes/Introduction to Graphs.md",
     "Index/DSA.md",
+    "Assets/Pasted image 20251122153033.png",
+    "Pasted image 20251122153018.png",
+    "Tags/Graphs.md",
+    "Main Notes/Largest BST in BT.md",
+    "Main Notes/Recover Binary Search Tree.md",
+    "Main Notes/Two Sum in BST.md",
+    "Main Notes/Binary Search Tree Iterator.md",
+    "Main Notes/Inorder Successor-Predecessor in BST.md",
+    "Main Notes/Construct BST from Preorder Traversal.md",
+    "Main Notes/LCA in BST.md",
+    "Main Notes/LCA of Binary Tree.md",
+    "Main Notes/Check if a tree is BST or BT.md",
+    "Main Notes/Feature Engineering.md",
+    "Assets/Pasted image 20251119194149.jpg",
+    "Assets/a_normal_distribution1.webp",
+    "Index/100 Days of ML (CampusX).md",
+    "Main Notes/Kth Smallest Element in a BST.md",
+    "Main Notes/Delete Node in a BST.md",
+    "Main Notes/Insert into a BST.md",
+    "Main Notes/Floor in a BST.md",
+    "Main Notes/Ciel in a BST.md",
+    "Main Notes/Find Min-Max in BST.md",
+    "Main Notes/Search in a Binary Search Tree.md",
+    "Main Notes/Binary Search Trees Intro.md",
     "Main Notes/Reverse Every Word in A String.md",
     "Main Notes/Reverse Words in a String.md",
     "Main Notes/Sum of Beauty of All Substring.md",
-    "Main Notes/Longest Palindromic Substring.md",
-    "Main Notes/Count Number of Substrings.md",
-    "Main Notes/Implement Atoi.md",
-    "Main Notes/Roman to Integer.md",
-    "Main Notes/Maximum Nesting Depth of the Parentheses.md",
-    "Main Notes/Sort Characters By Frequency.md",
-    "Main Notes/Flatten Binary Tree to Linked List.md",
-    "Main Notes/Morris Traversal.md",
-    "Main Notes/Serialize and Deserialize Binary Tree.md",
-    "Main Notes/Construct Binary Tree from Inorder and Postorder Traversal.md",
-    "Main Notes/Construct Binary Tree from Preorder and Inorder Traversal.md",
-    "Main Notes/Count Complete Tree Nodes.md",
-    "Main Notes/Minimum Time To Burn Binary Tree.md",
-    "Main Notes/All Nodes at Distance K in Binary Tree.md",
-    "Main Notes/Children Sum Property.md",
-    "Main Notes/Maximum Width of Binary Tree.md",
-    "Main Notes/LCA of Binary Tree.md",
-    "Main Notes/Binary Tree Paths.md",
-    "Main Notes/Symmetric Tree.md",
-    "Main Notes/Right Side View of BT.md",
-    "Main Notes/Bottom View of Binary Tree.md",
-    "Main Notes/Top View of Binary Tree.md",
     "Assets/what-is-binary-search-tree.webp",
     "Assets/Pasted image 20251102150032.png",
     "Assets/Pasted image 20251031154430.png",
@@ -200,10 +216,6 @@
     "Main Notes/Untitled.base",
     "Assets/Pasted image 20251030201630.png",
     "Assets/feature-scaling-techniques-1.webp",
-    "Assets/Pasted image 20251030183605.png",
-    "Assets/Pasted image 20251030183050.png",
-    "Assets/Pasted image 20251029202846.png",
-    "Assets/Pasted image 20251029202053.jpg",
     "Index",
     "Assets",
     "Templates",

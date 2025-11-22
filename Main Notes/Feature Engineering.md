@@ -58,6 +58,31 @@ It is important to handle outliers in the data so that the algorithm performs we
 
 ![[Pasted image 20251029202846.png]]
 
+##### How to handle outliers?
+1. Trimming 
+	- Remove data containing outliers. This makes your dataset thin, but it is very fast.
+2. Capping
+	- Cap the extremes to some value.
+3. Treat as Missing Value
+4. Discretization
+
+##### How to detect outliers?
+
+1. Normal Distribution
+	If you data is normally distributed, then you can easily figure out outliers with this formula,
+	$\mu - 3\sigma >$
+	$\mu + 3\sigma <$ 
+	
+	![[a_normal_distribution1.webp]]
+	
+2. Skewed Distribution
+	If the data is skewed, then you can use $IQR$ to find outliers.
+	
+	![[Pasted image 20251119194149.jpg]]
+	
+3. Other
+	You can also use percentages to determine outliers. Like data > 99% or < 5% can be treated as outliers.
+
 
 #### Feature Scaling
 

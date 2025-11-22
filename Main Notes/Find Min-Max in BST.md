@@ -1,6 +1,6 @@
 02-11-2025  15:27
 
-Status: #Revision 
+Status: #Revision-02  
 
 Tags: [[Tags/DSA|DSA]] [[Binary Search Trees]]
 
@@ -27,7 +27,7 @@ int minVal(Node* root){
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
-|       $O(N)$        |        $O(1)$        |
+|       $O(H)$        |        $O(1)$        |
 
 
 
