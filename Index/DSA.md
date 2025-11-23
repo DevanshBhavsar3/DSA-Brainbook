@@ -200,4 +200,7 @@
 
 # Graphs
 
+## Introduction
 [[Introduction to Graphs]]
+[[BFS in Graph]]
+[[DFS in Graph]]
