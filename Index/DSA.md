@@ -204,3 +204,5 @@
 [[Introduction to Graphs]]
 [[BFS in Graph]]
 [[DFS in Graph]]
+[[Number of Provinces]]
+[[Rotting Oranges]]

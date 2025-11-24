@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c2185f4236750833",
+        "id": "5884a7ee19ebb00d",
         "type": "tabs",
         "children": [
           {
-            "id": "7b5309a97a0410f2",
+            "id": "6795dc9c1316c05a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/DSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA"
             }
           }
         ]
@@ -165,9 +179,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b5309a97a0410f2",
+  "active": "6795dc9c1316c05a",
   "lastOpenFiles": [
+    "Main Notes/Rotting Oranges.md",
     "Index/DSA.md",
+    "Main Notes/Number of Provinces.md",
+    "Main Notes/Feature Engineering.md",
+    "Index/100 Days of ML (CampusX).md",
     "Main Notes/DFS in Graph.md",
     "Main Notes/BFS in Graph.md",
     "Main Notes/Introduction to Graphs.md",
@@ -183,10 +201,8 @@
     "Main Notes/LCA in BST.md",
     "Main Notes/LCA of Binary Tree.md",
     "Main Notes/Check if a tree is BST or BT.md",
-    "Main Notes/Feature Engineering.md",
     "Assets/Pasted image 20251119194149.jpg",
     "Assets/a_normal_distribution1.webp",
-    "Index/100 Days of ML (CampusX).md",
     "Main Notes/Kth Smallest Element in a BST.md",
     "Main Notes/Delete Node in a BST.md",
     "Main Notes/Insert into a BST.md",
@@ -195,8 +211,6 @@
     "Main Notes/Find Min-Max in BST.md",
     "Main Notes/Search in a Binary Search Tree.md",
     "Main Notes/Binary Search Trees Intro.md",
-    "Main Notes/Reverse Every Word in A String.md",
-    "Main Notes/Reverse Words in a String.md",
     "Assets/what-is-binary-search-tree.webp",
     "Assets/Pasted image 20251102150032.png",
     "Assets/Pasted image 20251031154430.png",
