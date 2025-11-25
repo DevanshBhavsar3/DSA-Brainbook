@@ -123,8 +123,8 @@ In the titanic dataset shown below, you can combine SibSp and Parch columns to c
 ### Feature Selection
 
 You don't need to feed all the feature columns to the ML model but only the important ones. The process of selecting important features is called **Feature Selection**. There are various ways for feature selection like,
-- Backward Selection
-- Forward Elimination
+- Backward Elimination
+- Forward Selection
 
 Example,
 In the MNIST dataset each of the image is just a lot of feature columns (28x28) containing the color strength in each of the pixel. You can remove the feature columns that is around the digits, which are useless and improve speed and performance of the model. 
