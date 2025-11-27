@@ -72,6 +72,60 @@ string cycleDetection (vector<vector<int>>& edges, int n, int m)
 |    $O(2N + 2E)$     |     $O(2N + 2E)$     |
 
 
+### DFS
+
+- For all the separated components in the graph run the dfs traversal.
+- While traversing in the dfs, if some node is already visited and it is not the parent node of the current element, then there is a cycle.
+
+```cpp
+bool traverse(int start, vector<vector<int>>& adj, vector<int>& visited, int parent) {
+    visited[start] = 1;
+	
+    for(auto it: adj[start]) {
+        if(!visited[it]) {
+            if(traverse(it, adj, visited, start)) {
+                return true;
+            }
+        } else if(it != parent) {
+            return true;
+        }
+    }
+	
+    return false;
+}
+
+string cycleDetection (vector<vector<int>>& edges, int n, int m)
+{
+    vector<int> visited(n + 1);
+    vector<vector<int>> adj(n + 1);
+	
+    for(int i = 0; i < edges.size(); i++) {
+        int u = edges[i][0];
+        int v = edges[i][1];
+		
+        adj[u].push_back(v);
+        adj[v].push_back(u);
+    }
+
+	// O(N)
+    for(int i = 1; i < visited.size(); i++) {
+        if(!visited[i]) {
+			// O(N + 2E)
+            if(traverse(i, adj, visited, -1)) {
+                return "Yes";
+            }
+        }
+    }
+	
+    return "No";
+}
+```
+
+| **Time Complexity** | **Space Complexity** |
+| :-----------------: | :------------------: |
+|    $O(2N + 2E)$     |     $O(2N + 2E)$     |
+
+
 
 
 
