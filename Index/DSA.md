@@ -214,3 +214,9 @@
 [[Word Ladder]]
 [[Word Ladder II]]
 [[Number of Distinct Islands]]
+[[Bipartite Graph]]
+[[Cycle Detection in Directed Graph]]
+
+## Topo Sort Problems
+[[Topo Sort]]
+[[Kahn's Algorithm]]
