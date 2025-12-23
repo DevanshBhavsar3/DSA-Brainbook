@@ -215,8 +215,11 @@
 [[Word Ladder II]]
 [[Number of Distinct Islands]]
 [[Bipartite Graph]]
-[[Cycle Detection in Directed Graph]]
+[[Cycle Detection in Directed Graph (DFS)]]
 
 ## Topo Sort Problems
 [[Topo Sort]]
 [[Kahn's Algorithm]]
+[[Cycle Detection in Directed Graph (BFS)]]
+[[Course Schedule I]]
+[[Course Schedule II]]

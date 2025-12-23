@@ -4,7 +4,7 @@ Status: #Revision
 
 Tags: [[Tags/DSA|DSA]] [[Graphs]]
 
-# Cycle Detection in Directed Graph
+# Cycle Detection in Directed Graph (DFS)
 
 https://www.naukri.com/code360/problems/detect-cycle-in-a-directed-graph_1062626
 

@@ -2,7 +2,7 @@
 
 Status: #Revision 
 
-Tags: [[Index/DSA|DSA]] [[Graphs]]
+Tags: [[Tags/DSA|DSA]] [[Graphs]]
 
 # Kahn's Algorithm
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6e42f1ece4ec01",
+        "id": "196dcf46b70a480a",
         "type": "tabs",
         "children": [
           {
-            "id": "8400a9d0e8c285a0",
+            "id": "ff9da9bbeac8d306",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,14 +179,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8400a9d0e8c285a0",
+  "active": "ff9da9bbeac8d306",
   "lastOpenFiles": [
-    "Main Notes/Kahn's Algorithm.md",
+    "Main Notes/Course Schedule II.md",
     "Index/DSA.md",
+    "Main Notes/Course Schedule I.md",
+    "Main Notes/Cycle Detection in Directed Graph (DFS).md",
     "Main Notes/Topo Sort.md",
+    "Main Notes/Cycle Detection in Directed Graph (BFS).md",
+    "Main Notes/Kahn's Algorithm.md",
     "Main Notes/DFS in Graph.md",
     "Index/100 Days of ML (CampusX).md",
-    "Main Notes/Cycle Detection in Directed Graph.md",
     "Main Notes/Bipartite Graph.md",
     "Main Notes/Number of Distinct Islands.md",
     "Main Notes/Word Ladder II.md",
@@ -206,9 +209,6 @@
     "Pasted image 20251122153018.png",
     "Tags/Graphs.md",
     "Main Notes/Largest BST in BT.md",
-    "Main Notes/Recover Binary Search Tree.md",
-    "Main Notes/Two Sum in BST.md",
-    "Main Notes/Binary Search Tree Iterator.md",
     "Assets/Pasted image 20251119194149.jpg",
     "Assets/a_normal_distribution1.webp",
     "Assets/what-is-binary-search-tree.webp",
