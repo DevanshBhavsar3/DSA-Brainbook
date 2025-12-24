@@ -223,3 +223,5 @@
 [[Cycle Detection in Directed Graph (BFS)]]
 [[Course Schedule I]]
 [[Course Schedule II]]
+[[Find Eventual Safe States]]
+[[Alien Dictionary]]
