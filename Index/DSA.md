@@ -36,8 +36,8 @@
 [[Single Number II]]
 
 ## Advance Math
-[[Print prime factor of a number]]
 [[Divisors of number]]
+[[Print prime factor of a number]]
 [[Sieve of Eratosthenes ( Count primes )]]
 [[Prime factorisation of a number]]
 [[Pow(x, n)]]
@@ -225,3 +225,18 @@
 [[Course Schedule II]]
 [[Find Eventual Safe States]]
 [[Alien Dictionary]]
+
+## Shortest Path Problems
+[[Shortest Path in Undirected Graph with Unit Weights]]
+[[Shortest Path in DAG]]
+[[Dijkstra's Algorithm]]
+[[Print Shortest Path]]
+[[Shortest Path in Binary Maze]]
+[[Path with Minimum Effort]]
+[[Cheapest Flights Within K Stops]]
+[[Network Delay Time]]
+[[Number of Ways to Arrive at Destination]]
+[[Minimum Multiplications to reach End]]
+[[Bellman Ford Algorithm]]
+[[Floyd Warshal Algorithm]]
+[[Find the City With the Smallest Number of Neighbors at a Threshold Distance]]

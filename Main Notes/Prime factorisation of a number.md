@@ -1,14 +1,12 @@
 27-07-2025  16:25
 
-Status: #Revision-02  
+Status: #Revision-03
 
 Tags: [[Tags/DSA]] [[Advanced Maths]]
 
 # Prime factorisation of a number
 
-
 https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number
-
 
 ## Brute Force
 

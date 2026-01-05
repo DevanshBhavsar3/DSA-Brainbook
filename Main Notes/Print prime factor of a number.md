@@ -6,6 +6,7 @@ Tags: [[Tags/DSA]] [[Advanced Maths]]
 
 # Print prime factor of a number
 
+https://www.geeksforgeeks.org/problems/largest-prime-factor2601/1
 
 ## Brute Force
 
@@ -139,7 +140,7 @@ vector<int> primeFactors(int n) {
 			}
 		}
 	}
-
+	
 	// when n is 13
 	if(n != 1) ans.push_back(n);
 	

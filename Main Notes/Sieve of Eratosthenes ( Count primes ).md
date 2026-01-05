@@ -1,6 +1,6 @@
 27-07-2025  15:10
 
-Status: #Revision-02  
+Status: #Revision-03 
 
 Tags: [[Tags/DSA]] [[Advanced Maths]]
 
@@ -44,7 +44,7 @@ N = 10
 
 - Create an array of n size.
 - Mark every element as 1.
-- Loop from 2 to $\sqrt n$, if the prime[i] is 1 mark every multiple of i to 0.
+- Loop from 2 to $\sqrt n$, if the prime[i] is 1, mark every multiple of i to 0.
 - Loop through 2 to n, and if the prime[i] is 1 increase the count.
 
 
