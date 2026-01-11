@@ -240,3 +240,11 @@
 [[Bellman Ford Algorithm]]
 [[Floyd Warshal Algorithm]]
 [[Find the City With the Smallest Number of Neighbors at a Threshold Distance]]
+
+## Minimum Spanning Tree & Disjoint Set Problems
+[[Minimum Spanning Tree]]
+[[Prim's Algorithm]]
+[[Disjoint Set]]
+[[Kruskal's Algorithm]]
+[[Number of Operations to Make Network Connected]]
+[[Most Stones Removed with Same Row or Column]]

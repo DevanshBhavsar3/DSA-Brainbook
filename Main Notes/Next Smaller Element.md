@@ -1,6 +1,6 @@
 04-08-2025  15:34
 
-Status: #Revision-02  
+Status: #Revision-03
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -15,8 +15,9 @@ https://www.naukri.com/code360/problems/next-smaller-element_1112581
 ```cpp
 for(int i -> n) {
 	for(int j = i -> n) {
-		if(arr[j] < arr[n]) {
+		if(arr[j] < arr[i]) {
 			ans[i] = arr[j];
+			break;
 		}
 	}
 }

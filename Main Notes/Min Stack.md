@@ -1,6 +1,6 @@
 30-07-2025  16:55
 
-Status: #Revision-02
+Status: #Revision-03
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -108,7 +108,7 @@ public:
         if(st.empty()) {
             return;
         }
-
+		
 		// Store the old min value
         if(st.top() < min) {
             min = (2 * min) - st.top();

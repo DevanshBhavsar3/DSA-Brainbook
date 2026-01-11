@@ -1,6 +1,6 @@
 01-08-2025  16:02
 
-Status: #Revision-02 
+Status: #Revision-03
 
 Tags: [[Tags/DSA]] [[Stack]]
 
@@ -28,14 +28,14 @@ int priority(char s) {
 	} else if(s == '+' || s == '-') {
 		return 1;
 	}
-
+	
 	return 0;
 }
 
 string infixToPostfix(string exp){
 	stack<char> st;
 	string ans = "";
-
+	
 	for(int i = 0; i < exp.size(); i++) {
 		if((exp[i] >= 'A' && exp[i] <= 'Z') ||
 		(exp[i] >= 'a' && exp[i] <= 'z') ||
@@ -48,7 +48,7 @@ string infixToPostfix(string exp){
 				ans += st.top();
 				st.pop();
 			}
-
+			
 			if(st.top() == '(') {
 				st.pop();
 			}
@@ -57,16 +57,16 @@ string infixToPostfix(string exp){
 				ans += st.top();
 				st.pop();
 			}
-
+			
 			st.push(exp[i]);
 		}
 	}
-
+	
 	while(!st.empty()) {
 		ans += st.top();
 		st.pop();
 	}
-
+	
 	return ans;
 }
 ```

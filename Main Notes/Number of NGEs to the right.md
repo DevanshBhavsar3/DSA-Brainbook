@@ -1,6 +1,6 @@
 04-08-2025  16:24
 
-Status: #Revision-02
+Status: #Revision-03
 
 Tags: [[Tags/DSA]]
 
@@ -78,7 +78,76 @@ class Solution {
 ## Optimal
 
 - Perform merge sort on the copy of the array of type pair<int, int>.
-- When merging if the arr[i] < arr[j] then, increase the nge count to high - j.
+- When merging if the arr[i] < arr[j] then, increase the nge count to high - j + 1.
+
+```cpp
+class Solution {
+  public:
+    void merge(int low, int mid, int high, vector<pair<int, int>>& arr, map<int, int>& nge) {
+        vector<pair<int, int>> tmp;
+        int i = low;
+        int j = mid + 1;
+        
+        while(i <= mid && j <= high) {
+            if(arr[i].first < arr[j].first) {
+                nge[arr[i].second] += high - j + 1;
+                
+                tmp.push_back(arr[i]);
+                i++;
+            } else {
+                tmp.push_back(arr[j]);
+                j++;
+            }         
+        }
+        
+        while(i <= mid) {
+            tmp.push_back(arr[i]);
+            i++;
+        }
+        
+        while(j <= high) {
+            tmp.push_back(arr[j]);
+            j++;
+        }
+        
+        for(int i = low; i <= high; i++) {
+            arr[i] = tmp[i - low];
+        }
+    }
+	
+    void mergeSort(int low, int high, vector<pair<int, int>>& arr, map<int, int>& nge) {
+        if(low >= high) {
+            return;
+        }
+        
+        int mid = low + (high - low) / 2;
+        
+        mergeSort(low, mid, arr, nge);
+        mergeSort(mid + 1, high, arr, nge);
+        
+        merge(low, mid, high, arr, nge);
+    }
+	
+    vector<int> count_NGE(vector<int> &arr, vector<int> &indices) {
+        vector<pair<int, int>> copy;
+        map<int, int> nge;
+        
+        for(int i = 0; i < arr.size(); i++) {
+            copy.push_back({arr[i], i});
+        }
+        
+        mergeSort(0, arr.size() - 1, copy, nge);
+        
+        vector<int> ans;
+        
+        for(int i = 0; i < indices.size(); i++) {
+            ans.push_back(nge[indices[i]]);
+        }
+        
+        return ans;
+    }
+};
+```
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
