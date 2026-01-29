@@ -104,6 +104,15 @@
 
 
 
+# Heaps
+
+## Introduction
+[[Heap Introduction]]
+[[Check array represent Heap]]
+[[Convert Min Heap to Max Heap]]
+
+
+
 # Greedy Algorithms
 
 ## Easy Problems
@@ -252,3 +261,8 @@
 [[Number of Islands II]]
 [[Making A Large Island]]
 [[Swim in Rising Water]]
+
+## Other Algorithms
+[[Bridges in Graph]]
+[[Articulation Point]]
+[[Kosaraju's Algorithm]]

@@ -1,6 +1,6 @@
 17-09-2025  14:58
 
-Status: #Revision-02  
+Status: #Revision-03
 
 Tags: [[Tags/DSA|DSA]] [[Sliding Window & Two Pointers Problems]]
 
@@ -46,7 +46,30 @@ public:
 
 ### Better
 
-https://www.notion.so/Arrays-1d3c850aef57804cb248e2fbebeb40ce?source=copy_link#1dbc850aef578001be5be930942ab6a9
+```cpp
+class Solution {
+public:
+    int numSubarraysWithSum(vector<int>& nums, int goal) {
+        map<int, int> mp;
+        int prefix = 0;
+        int total = 0;
+		
+        mp[0] = 1;
+		
+        for(int i = 0; i < nums.size(); i++) {
+            prefix += nums[i];
+			
+            if(mp.find(prefix - goal) != mp.end()) {
+                total += mp[prefix - goal];
+            }
+			
+            mp[prefix]++;
+        }
+		
+        return total;
+    }
+};
+```
 
 
 ### Optimal
