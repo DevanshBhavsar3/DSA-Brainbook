@@ -111,6 +111,15 @@
 [[Check array represent Heap]]
 [[Convert Min Heap to Max Heap]]
 
+## Medium Problems
+[[Kth Largest Element in an Array]]
+[[Kth Smallest Element in an Array]]
+[[Sort K Sorted Array]]
+[[Merge K Sorted Lists]]
+[[Replace Each Element Of Array With Its Corresponding Rank]]
+[[Task Scheduler]]
+[[Hand of Straights]]
+
 
 
 # Greedy Algorithms
