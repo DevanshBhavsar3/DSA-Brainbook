@@ -120,6 +120,14 @@
 [[Task Scheduler]]
 [[Hand of Straights]]
 
+## Hard Problems
+[[Design Twitter]]
+[[Connect N Ropes With Minimum Cost]]
+[[Kth Largest Element in a Stream]]
+[[Maximum Sum Combination]]
+[[Find Median from Data Stream]]
+[[Top K Frequent Elements]]
+
 
 
 # Greedy Algorithms
