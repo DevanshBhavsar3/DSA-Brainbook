@@ -296,3 +296,12 @@
 [[Frog Jump With K Distance]]
 [[Maximum Sum Of Non Adjacent Elements]]
 [[House Robber II]]
+
+## 2D DP
+[[Ninja's Training]]
+[[Unique Paths]]
+[[Unique Paths II]]
+[[Minimum Path Sum]]
+[[Triangle]]
+[[Minimum Falling Path Sum]]
+[[Chocolate Pickup]]
