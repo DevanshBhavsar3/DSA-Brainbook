@@ -305,3 +305,17 @@
 [[Triangle]]
 [[Minimum Falling Path Sum]]
 [[Chocolate Pickup]]
+
+## Subsequences DP
+[[Subset Sum Equal to K]]
+[[Partition Equal Subset Sum]]
+[[Partition Array Into Two Arrays to Minimize Sum Difference]]
+[[Count Subsets with Sum K]]
+[[Count Partitions With Given Difference]]
+[[Assign Cookies]]
+[[0 1 Knapsack]]
+[[Coin Change]]
+[[Target Sum]]
+[[Coin Change II]]
+[[Unbounded Knapsack]]
+[[Rod Cutting Problem]]
