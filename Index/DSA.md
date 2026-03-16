@@ -319,3 +319,15 @@
 [[Coin Change II]]
 [[Unbounded Knapsack]]
 [[Rod Cutting Problem]]
+
+## Strings DP
+[[Longest Common Subsequence]]
+[[Print Longest Common Subsequence]]
+[[Longest Common Substring]]
+[[Longest Palindromic Subsequence]]
+[[Minimum Insertion Steps to Make a String Palindrome]]
+[[Delete Operation for Two Strings]]
+[[Shortest Common Supersequence]]
+[[Distinct Subsequences]]
+[[Edit Distance]]
+[[Wildcard Matching]]
