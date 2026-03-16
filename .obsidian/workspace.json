@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "52db02f0e916505d",
+        "id": "ecb84124fbfb1895",
         "type": "tabs",
         "children": [
           {
-            "id": "053de6605ef44acd",
+            "id": "ff4bc8bdc1d1ecdf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index/DSA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "New tab"
             }
           }
         ]
@@ -178,13 +164,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053de6605ef44acd",
+  "active": "ff4bc8bdc1d1ecdf",
   "lastOpenFiles": [
-    "Main Notes/Delete Operation for Two Strings.md",
+    "Tags/Dynamic Programming.md",
     "Index/DSA.md",
+    "Main Notes/Delete Operation for Two Strings.md",
     "Main Notes/Longest Palindromic Subsequence.md",
     "Main Notes/Minimum Insertion Steps to Make a String Palindrome.md",
-    "Tags/Dynamic Programming.md",
     "Main Notes/Wildcard Matching.md",
     "Main Notes/Edit Distance.md",
     "Tags/DSA.md",
