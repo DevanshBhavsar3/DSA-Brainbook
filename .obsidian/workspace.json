@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ecb84124fbfb1895",
+        "id": "6a34ed7524f51929",
         "type": "tabs",
         "children": [
           {
-            "id": "ff4bc8bdc1d1ecdf",
+            "id": "bde93e02c7ab80b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Index/DSA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA"
             }
           }
         ]
@@ -155,19 +169,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff4bc8bdc1d1ecdf",
+  "active": "bde93e02c7ab80b5",
   "lastOpenFiles": [
-    "Tags/Dynamic Programming.md",
+    "Main Notes/Best Time to Buy and Sell Stock with Transaction Fee.md",
     "Index/DSA.md",
+    "Main Notes/Best Time to Buy and Sell Stock II.md",
+    "Main Notes/Best Time to Buy and Sell Stock with Cooldown.md",
+    "Main Notes/Best Time to Buy and Sell Stock III.md",
+    "Main Notes/Best Time to Buy and Sell Stock IV.md",
+    "Main Notes/Cycle Detection in Directed Graph (DFS).md",
+    "Main Notes/Bipartite Graph.md",
+    "Main Notes/Number of Distinct Islands.md",
+    "Main Notes/Word Ladder II.md",
+    "Main Notes/Word Ladder.md",
+    "Main Notes/Number of Enclaves.md",
+    "Main Notes/Best Time to Buy and Sell Stock.md",
+    "Main Notes/Surrounded Regions.md",
+    "Main Notes/01 Matrix.md",
+    "Main Notes/Cycle Detection in Undirected Graph.md",
+    "Index/100 Days of ML (CampusX).md",
+    "Tags/Dynamic Programming.md",
     "Main Notes/Delete Operation for Two Strings.md",
     "Main Notes/Longest Palindromic Subsequence.md",
     "Main Notes/Minimum Insertion Steps to Make a String Palindrome.md",
@@ -176,23 +206,7 @@
     "Tags/DSA.md",
     "Main Notes/Flood Fill.md",
     "Main Notes/Rotting Oranges.md",
-    "Main Notes/Number of Provinces.md",
-    "Main Notes/Distinct Subsequences.md",
-    "Main Notes/DFS in Graph.md",
-    "Main Notes/BFS in Graph.md",
-    "Main Notes/Introduction to Graphs.md",
-    "Main Notes/Shortest Common Supersequence.md",
-    "Main Notes/Longest Common Subsequence.md",
-    "Main Notes/Largest BST in BT.md",
-    "Main Notes/Recover Binary Search Tree.md",
-    "Main Notes/Two Sum in BST.md",
-    "Main Notes/Print Longest Common Subsequence.md",
-    "Main Notes/Longest Common Substring.md",
     "Pasted image 20260313155754.png",
-    "Main Notes/Binary Search Tree Iterator.md",
-    "Main Notes/Inorder Successor-Predecessor in BST.md",
-    "Main Notes/Construct BST from Preorder Traversal.md",
-    "Main Notes/LCA in BST.md",
     "Assets/Pasted image 20260312173238.png",
     "Assets/Pasted image 20260128150709.png",
     "Assets/Pasted image 20260128150645.png",
