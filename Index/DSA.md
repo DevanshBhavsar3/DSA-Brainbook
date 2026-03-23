@@ -339,3 +339,11 @@
 [[Best Time to Buy and Sell Stock IV]]
 [[Best Time to Buy and Sell Stock with Cooldown]]
 [[Best Time to Buy and Sell Stock with Transaction Fee]]
+
+## LIS DP
+[[Longest Increasing Subsequence]]
+[[Printing Longest Increasing Subsequence]]
+[[Largest Divisible Subset]]
+[[Longest String Chain]]
+[[Longest Bitonic Sequence]]
+[[Number of Longest Increasing Subsequence]]
