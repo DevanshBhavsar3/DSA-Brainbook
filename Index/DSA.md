@@ -347,3 +347,11 @@
 [[Longest String Chain]]
 [[Longest Bitonic Sequence]]
 [[Number of Longest Increasing Subsequence]]
+
+## MCM & Partition DP
+[[Matrix Chain Multiplication]]
+[[Minimum Cost to Cut a Stick]]
+[[Burst Balloons]]
+[[Parsing A Boolean Expression]]
+[[Palindrome Partitioning II]]
+[[Partition Array for Maximum Sum]]
