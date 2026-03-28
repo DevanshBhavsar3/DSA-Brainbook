@@ -2,7 +2,7 @@
 
 Status: #Revision-03 
 
-Tags: [[Tags/DSA]] [[Stack]]
+Tags: [[Tags/DSA]] [[Stack]] [[Dynamic Programming]]
 
 # Maximal Rectangle
 

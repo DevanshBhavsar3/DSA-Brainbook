@@ -355,3 +355,7 @@
 [[Parsing A Boolean Expression]]
 [[Palindrome Partitioning II]]
 [[Partition Array for Maximum Sum]]
+
+## Squares DP
+[[Maximal Rectangle]]
+[[Count Square Submatrices with All Ones]]
