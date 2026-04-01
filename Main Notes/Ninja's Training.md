@@ -1,6 +1,6 @@
 13-02-2026  16:55
 
-Status: #Revision
+Status: #Revision-02
 
 Tags: [[Tags/DSA|DSA]] [[Dynamic Programming]]
 
@@ -117,7 +117,7 @@ int ninjaTraining(int n, vector<vector<int>> &points)
 
 | **Time Complexity** | **Space Complexity** |
 | :-----------------: | :------------------: |
-|   $O*(N * 4 * 3)$   |        $O(1)$        |
+|   $O(N * 4 * 3)$    |        $O(1)$        |
 
 
 

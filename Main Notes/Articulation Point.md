@@ -1,6 +1,6 @@
 19-01-2026  14:50
 
-Status: #Revision 
+Status: #Revision-02
 
 Tags: [[Tags/DSA]] [[Graphs]]
 
@@ -56,7 +56,7 @@ class Solution {
         
         for(int i = 0; i < V; i++) {
             if(!visited[i]) {
-                DFS(0, 0, -1, V, visited, time, low, adj, articulations);
+                DFS(i, 0, -1, V, visited, time, low, adj, articulations);
             }
         }
         

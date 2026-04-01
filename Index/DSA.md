@@ -359,3 +359,14 @@
 ## Squares DP
 [[Maximal Rectangle]]
 [[Count Square Submatrices with All Ones]]
+
+
+
+# Trie
+
+[[Trie Introduction]]
+[[Implement Trie II]]
+[[Complete String]]
+[[Count Distinct Substrings]]
+[[Maximum XOR of Two Numbers in an Array]]
+[[Maximum XOR With an Element From Array]]
