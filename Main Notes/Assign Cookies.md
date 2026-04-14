@@ -2,7 +2,7 @@
 
 Status: #Revision-03
 
-Tags: [[Tags/DSA|DSA]] [[Greedy Algorithms]]
+Tags: [[Tags/DSA|DSA]] [[Greedy Algorithms]] [[Dynamic Programming]]
 
 # Assign Cookies
 

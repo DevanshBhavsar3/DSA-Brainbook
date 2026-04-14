@@ -1,6 +1,6 @@
 16-03-2026  15:45
 
-Status: #Revision
+Status: #Revision-02
 
 Tags: [[Tags/DSA|DSA]] [[Dynamic Programming]]
 
@@ -31,6 +31,8 @@ public:
                     return false;
                 }
             }
+			
+			return true;
         }
 		
         if(dp[i][j] != -1) {

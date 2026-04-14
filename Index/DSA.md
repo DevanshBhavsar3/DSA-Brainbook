@@ -18,6 +18,14 @@
 [[Longest Palindromic Substring]]
 [[Sum of Beauty of All Substring]]
 
+## Hard Problems
+[[Minimum Add to Make Parentheses Valid]]
+[[Count and Say]]
+[[Rabin Karp Algorithm]]
+[[Z Algorithm]]
+[[KMP Algorithm]]
+[[Shortest Palindrome]]
+
 
 
 # Bit Manipulation

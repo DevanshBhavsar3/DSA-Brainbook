@@ -1,6 +1,6 @@
 10-03-2026  16:07
 
-Status: #Revision
+Status: #Revision-02
 
 Tags: [[Tags/DSA|DSA]] [[Dynamic Programming]]
 
@@ -60,7 +60,6 @@ int cutRod(vector<int> &price, int n)
 		dp[0][i] = i * price[0];
 	}
 	
-	
 	for(int i = 1; i < n; i++) {
 		for(int j = 0; j <= n; j++) {
 			int notPick = dp[i - 1][j];
@@ -91,7 +90,6 @@ int cutRod(vector<int> &price, int n)
 	for(int i = 0; i <= n; i++) {
 		prev[i] = i * price[0];
 	}
-	
 	
 	for(int i = 1; i < n; i++) {
 		for(int j = 0; j <= n; j++) {
