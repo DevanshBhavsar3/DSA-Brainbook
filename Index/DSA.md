@@ -25,6 +25,8 @@
 [[Z Algorithm]]
 [[KMP Algorithm]]
 [[Shortest Palindrome]]
+[[Longest Happy Prefix]]
+[[Palindromic Substrings]]
 
 
 
